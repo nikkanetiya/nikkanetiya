@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Nikunj Kanetiya</h1>
 <h3 align="center">Developer | Geek from India.</h3>
 
-🔭 I’m currently working as Engineering Manager at [GoHighLevel](https://gohighlevel.com)
+🔭 I’m currently working as Director of Engineering, Team Automation at [GoHighLevel](https://gohighlevel.com)
 
 <h4>What we do at HighLevel?</h4>
 
-<b>GoHighLevel</b> is one of the fastest growing all in one platform for SMB's and digital marketing agencies. CRM, Email, 2-way SMS, phone system, facebook, instagram, WhatsApp, Email marketing, Social media posting, Websites, Funnel Builder, Wordpress hosting & more!
+<b>HighLevel</b> is one of the fastest growing all in one platform for SMB's and digital marketing agencies. Automation, CRM, Email, 2-way SMS, phone system, facebook, instagram, WhatsApp, Email marketing, Social media posting, Websites, Funnel Builder, Wordpress hosting & more!
 
 We are on our journey to take our product from 10x - 100x.
 
 We handle around
 - 3+ Billion API hits/month
-- 2+ Billion message events/month
+- 10+ Billion message events/month
 - 10+ TB of data across 5 Databases
 
 **Does engineering great products at scale excite you? — Do you want to ship products that matter, and scale to hundreds of thousands of users.**
